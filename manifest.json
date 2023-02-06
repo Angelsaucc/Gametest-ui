@@ -3,7 +3,7 @@
   "header": {
     "name": "Gametest ui",
     "uuid": "cd3b402b-7548-4f24-9bc6-bcc04d0dcc8b",
-    "version": [ 1, 0, 0 ],
+    "version": [ 1, 0, 1 ],
     "min_engine_version": [ 1, 18, 10 ]
   },
   "modules": [
